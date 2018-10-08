@@ -31,7 +31,6 @@ class NewVisitorTest(unittest.TestCase):
             inputbox.get_attribute('placeholder'),
             'Enter a to-do item'
         )
-
         # She types "Buy peacock feathers" into a text box (Edith's hobby
         # is tying fly-fishing lures)
         inputbox.send_keys('Buy peacock feathers')
