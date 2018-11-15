@@ -1,4 +1,2 @@
-- Code smell: POST test is too long?
-- VIEW: Don't be saving empty entries for every request
 - diff lists for diff ppl
 - display multiple items in the table
