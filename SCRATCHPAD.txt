@@ -1,2 +1,3 @@
-- diff lists for diff ppl
-- display multiple items in the table
+- Clean up after FT runs
+- Support more than one list!
+- Remove time.sleep
