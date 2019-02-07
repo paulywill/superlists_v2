@@ -6,4 +6,9 @@ TODO:
 [x] Refactor away some duplication in urls.py
 [x] Remove hardcoded URLs from views.py
 [x] Remove hardcoded URL from forms in list.html and home.html
-- Remove duplication of validation logic in views.py
+[x]- Remove duplication of validation logic in views.py
+[x]- How to send emails
+[x] Generating ...
+and recognizing unique tokens
+- How to authenticate someone in Django...
+- What steps will the user have to go through?
